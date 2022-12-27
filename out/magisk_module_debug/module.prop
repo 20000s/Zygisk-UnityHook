@@ -1,0 +1,6 @@
+id=zygisk_20000s
+name=zygisk_unity_hook
+version=v1.0.0
+versionCode=1
+author=20000s
+description=my unity hook
