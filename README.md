@@ -34,7 +34,7 @@ you can find log in LogCat
 
 
 # Credits
-https://www.perfare.net/archives/1741
-[dobby](https://github.com/jmpews/Dobby)
-[Zygisk-ModuleTemplate](https://github.com/PShocker/Zygisk-ModuleTemplate)
+https://www.perfare.net/archives/1741  
+[dobby](https://github.com/jmpews/Dobby)  
+[Zygisk-ModuleTemplate](https://github.com/PShocker/Zygisk-ModuleTemplate)  
 [Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
